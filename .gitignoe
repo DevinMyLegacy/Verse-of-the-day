@@ -1,0 +1,16 @@
+# Node.js
+node_modules/
+.env
+*.log
+dist/
+build/
+
+# MongoDB
+*.mongodb
+
+# IDE files
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
